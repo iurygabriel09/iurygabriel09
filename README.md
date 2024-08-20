@@ -2,11 +2,11 @@
 
 meu nome é iury gabriel
 
--Estou estudando na [alura](https://www.alura.com.br)
+- Estou estudando na [alura](https://www.alura.com.br)
 
--Estou me desenvolvendo na linguagem javaScript
+- Estou me desenvolvendo na linguagem javaScript
 
--Utilizo esse espaço para minha organizaçâo e compartilhamento dos meu projetos desenvolvidos
+- Utilizo esse espaço para minha organizaçâo e compartilhamento dos meu projetos desenvolvidos
 
  ### Vocẽ entrar em contato comigo 📫
  
