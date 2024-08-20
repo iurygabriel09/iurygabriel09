@@ -1,16 +1,16 @@
-## Hi there 👋
+### boas vindas ao meu perfil 💙
 
-<!--
-**iurygabriel09/iurygabriel09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é iury gabriel
 
-Here are some ideas to get you started:
+-Estou estudando na [alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolvendo na linguagem javaScript
+
+-Utilizo esse espaço para minha organizaçâo e compartilhamento dos meu projetos desenvolvidos
+
+ ### Vocẽ entrar em contato comigo 📫
+ 
+iury.santos.silva@escola.pr.gov.br
+
+
+![](https://media1.tenor.com/m/mCiM7CmGGI4AAAAC/naruto.gif)
